@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Mathematics and Computer Science
 - How to reach me: hm@m.hmplayground.dev
-- My PGP Key: [C4F0 7167 C190 90AA A6B4  5C0E 0500 A94A 9ABE B799](https://keys.openpgp.org/vks/v1/by-fingerprint/C4F07167C19090AAA6B45C0E0500A94A9ABEB799)
+- My PGP Key: [CB14 1D68 366E 8740 781A  7235 AD1A D44D 1EBD 3592](https://keys.openpgp.org/vks/v1/by-fingerprint/CB141D68366E8740781A7235AD1AD44D1EBD3592)
 
 <!--
 **markhuang1212/markhuang1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
