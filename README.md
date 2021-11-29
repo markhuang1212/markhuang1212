@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently majoring in Mathematics and Computer Science
 - 📫 How to reach me: mark.huang1212@gmail.com
-- My PGP Key: [CB14 1D68 366E 8740 781A  7235 AD1A D44D 1EBD 3592](gh.hmplayground.dev/markhuang1212/pubkey.asc)
+- My PGP Key: [CB14 1D68 366E 8740 781A  7235 AD1A D44D 1EBD 3592](https://gh.hmplayground.dev/markhuang1212/pubkey.asc)
 - Available for hire!
 
 <!--
