@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently majoring in Mathematics and Computer Science
+- 🌱 I’m currently a Software Engineer based in Hong Kong
 - 📫 How to reach me: mark.huang1212@gmail.com
 
 <!--
