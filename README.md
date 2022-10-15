@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently a Software Engineer based in Hong Kong
-- 📫 How to reach me: mark.huang1212@gmail.com
 
 <!--
 **markhuang1212/markhuang1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
